@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "HTML: The building blocks of all websites",
+        "date": "Mar 16, 2023",
+        "intro": "HTML, or Hypertext Markup Language, is a fundamental building block of the internet. It's the language that web developers use to structure web contents.",
+        "image": "1.jpg",
+        "image-dimension": "700 - 467 is the image dimension to use",
+        "link":"https://ibrahimyemi.hashnode.dev/html-the-building-blocks-of-all-websites"
+    },
+    {
+        "id": 2,
+        "title": "The only limitation is YOU!",
+        "date": "Mar 13, 2023",
+        "intro": "The concept that human beings are limited to some capacity or ability doesn't seem to be the case majority of the time when the word is used.",
+        "image": "2.jpg",
+        "image-dimension": "700 - 467 is the image dimension to use",
+        "link":"https://ibrahimyemi.hashnode.dev/the-only-limitation-is-you"
+    },
+    {
+        "id": 3,
+        "title": "Navigating the Tech Landscape: A Software Engineer's Guide!",
+        "date": "Oct 7, 2023",
+        "intro": "In the ever-evolving realm of technology, software engineers play a pivotal role in shaping and navigating the landscape.",
+        "image": "4.jpg",
+        "image-dimension": "700 - 467 is the image dimension to use",
+        "link":"https://ibrahimyemi.hashnode.dev/the-only-limitation-is-you"
+    }                 
+]
